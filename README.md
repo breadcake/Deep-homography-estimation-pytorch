@@ -1,4 +1,4 @@
-# Deep Homography Estimation- PyTorch Implementation
+# Deep Image Homography Estimation- PyTorch Implementation
 [**Deep Image Homography Estimation**](https://arxiv.org/pdf/1606.03798.pdf)<br>
 Daniel DeTone, Tomasz Malisiewicz, and Andrew Rabinovich
       
